@@ -10,6 +10,7 @@
 <br/>
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind" /><br>
