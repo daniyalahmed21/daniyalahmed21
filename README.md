@@ -6,8 +6,15 @@
 
 <br/>
 
-Next.js Developer | Because "It Works on My Machine"
-🚀 Passionate about building lightning-fast, scalable web applications with modern tech stacks.
-🔹 Stack: Next.js | TypeScript | Tailwind CSS | Clerk | Sanity | Zustand
-🎯 Fun Fact: I debug faster than my coffee gets cold. ☕
-👀 Looking for exciting projects? Let’s connect!
+<div align="left">
+
+🚀 Next.js Developer | Because "It Works on My Machine"
+
+🔹 Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
+
+🎯 Fun Fact: **I debug faster than my coffee gets cold. ☕**  
+
+👀 Looking for exciting projects? Let’s connect!  
+
+</div>
+
