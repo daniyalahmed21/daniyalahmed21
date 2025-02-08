@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daniyalahmed21.daniyalahmed21" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniyal!;" />
 </h1>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 🏎️ Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
 
@@ -20,7 +20,7 @@
 
 </div>
 <br/>
-<div align="center"> 
+<!-- <div align="left"> 
   <a href="da9033431@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,9 +30,9 @@
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div> -->
  
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="left">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" /><br>
