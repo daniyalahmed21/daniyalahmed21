@@ -9,8 +9,8 @@
 🚀 Full-Stack Next.js Developer | Building the Future, One Component at a Time<br>🚀 Passionate about building lightning-fast, scalable web applications with modern tech stacks.<br>💡 Philosophy: Clean Code. Seamless UX. Blazing Performance. 🚀<br>🎯 Fun Fact: I debug faster than my coffee gets cold. ☕<br>⚡ Favorite Dev Quote: "Code is like humor. If you have to explain it, it’s bad." — Cory House<br>👀 Looking for exciting projects? Let’s connect!
 <br/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Tech Stack ⚒️<br/></h2>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind" /><br>
