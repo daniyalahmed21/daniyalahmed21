@@ -6,19 +6,7 @@
 
 <br/>
 
-<div align="left">
-
-🏎️ Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
-
-💡 Philosophy: **Clean Code. Seamless UX. Blazing Performance. 🚀**  
-
-🎯 Fun Fact: **I debug faster than my coffee gets cold. ☕**  
-
-⚡ Favorite Dev Quote: "**Code is like humor. If you have to explain it, it’s bad.**" — Cory House  
-
-👀 Looking for exciting projects? Let’s connect!  
-
-</div>
+🚀 Full-Stack Next.js Developer | Building the Future, One Component at a Time<br>🚀 Passionate about building lightning-fast, scalable web applications with modern tech stacks.<br>💡 Philosophy: Clean Code. Seamless UX. Blazing Performance. 🚀<br>🎯 Fun Fact: I debug faster than my coffee gets cold. ☕<br>⚡ Favorite Dev Quote: "Code is like humor. If you have to explain it, it’s bad." — Cory House<br>👀 Looking for exciting projects? Let’s connect!
 <br/>
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
