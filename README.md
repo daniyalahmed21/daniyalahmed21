@@ -33,14 +33,12 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,prisma,ts,vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript,nextjs,prisma,ts,vercel" />
 </div>
 
 <br/>
