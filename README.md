@@ -10,7 +10,7 @@
 
 🚀 Full-Stack Next.js Developer | Building the Future, One Component at a Time  
 
-🚀 Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
+🏎️ Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
 
 💡 Philosophy: **Clean Code. Seamless UX. Blazing Performance. 🚀**  
 
