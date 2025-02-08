@@ -26,7 +26,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,nextjs,prisma,ts,vercel" />
-   <img src=" https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"/>
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"/>
 </div>
 
 
