@@ -34,6 +34,16 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,prisma,ts,vercel" /><br>
+</div>
+
+<br/>
 
 
 
