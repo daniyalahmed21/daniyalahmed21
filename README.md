@@ -24,8 +24,9 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,nextjs,prisma,ts,vercel" />
+   <img src=" https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"/>
 </div>
 
 
