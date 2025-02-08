@@ -6,15 +6,20 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
 
-🚀 Next.js Developer | Because "It Works on My Machine"
+🚀 Full-Stack Next.js Developer | Building the Future, One Component at a Time  
 
-🔹 Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
+🚀 Passionate about building lightning-fast, scalable web applications with modern tech stacks.  
+
+💡 Philosophy: **Clean Code. Seamless UX. Blazing Performance. 🚀**  
 
 🎯 Fun Fact: **I debug faster than my coffee gets cold. ☕**  
+
+⚡ Favorite Dev Quote: "**Code is like humor. If you have to explain it, it’s bad.**" — Cory House  
 
 👀 Looking for exciting projects? Let’s connect!  
 
 </div>
+
 
