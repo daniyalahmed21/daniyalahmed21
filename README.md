@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-<h2 align="left">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" /><br>
