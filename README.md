@@ -1,5 +1,5 @@
 <div align="center">
-# <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daniyalahmed21.daniyalahmed21" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daniyalahmed21.daniyalahmed21" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniyal!;" />
@@ -7,7 +7,6 @@
 </div>
 
 # About Me
-
 🔭 Working on LeetCode backend challenges  
 👯 Open to project collaborations  
 🌱 Learning advanced backend  
