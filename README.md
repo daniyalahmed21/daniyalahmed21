@@ -1,11 +1,9 @@
 <div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daniyalahmed21.daniyalahmed21" />
+    
+![Linkedin Banner (3)](https://github.com/user-attachments/assets/a058a1be-33fe-41c5-8eb4-122b6bdb70a7)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniyal!;" />
-</h1>
 
-🔭 Working on LeetCode backend challenges  
+🔭 Currently Working on LeetCode backend
 👯 Open to project collaborations  
 🌱 Learning advanced backend  
 💬 Ask me about full-stack development  
