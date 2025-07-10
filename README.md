@@ -61,10 +61,12 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+<div id="user-content-toc" style="list-style: none;">
+  <h2 style="border-bottom: none;">📊 GitHub Stats</h2>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=daniyalahmed21&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=daniyalahmed21&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=dark&hide_border=false&layout=compact)
 
 
