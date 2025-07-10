@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-About Me:
+# About Me
 
 🔭 Working on LeetCode backend challenges  
 👯 Open to project collaborations  
