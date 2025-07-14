@@ -7,7 +7,7 @@
 👯 Open to project collaborations  
 🌱 Learning advanced backend  
 💬 Ask me about full-stack development  
-⚡ I debug faster than my coffee cools ☕  
+⚡ I debug faster than my coffee cools 
 </div>
 
 <div >
