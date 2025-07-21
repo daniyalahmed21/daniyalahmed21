@@ -4,7 +4,7 @@
 <div >
 
 🔭 Currently Working on LeetCode backend <br/>
-👯 Open to project collaborations  
+🤝 Open to project collaborations  
 🌱 Learning advanced backend  
 💬 Ask me about full-stack development  
 ⚡ I debug faster than my coffee cools 
