@@ -5,7 +5,7 @@
 
 🔭 Currently Working on LeetCode backend <br/>
 🤝 Open to project collaborations  
-🌱 Learning advanced concepts and devops 
+🌱 Learning advanced concepts and devops                     
 💬 Ask me about full-stack development  
 </div>
 
