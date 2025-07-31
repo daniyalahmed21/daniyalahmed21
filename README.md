@@ -63,8 +63,7 @@
   <h2 style="border-bottom: none;">📊 GitHub Stats</h2>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false)![](https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=light&hide_border=true&layout=compact)
 
