@@ -85,11 +85,11 @@
     <tr>
       <td align="center">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
+          src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
           alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=daniyalahmed21&theme=dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
