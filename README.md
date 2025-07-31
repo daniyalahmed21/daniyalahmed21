@@ -61,16 +61,11 @@
 
 [![Daniyal Ahmed's GitHub Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=daniyalahmed21&bg_color=ffffff&color=333333&line=666666&point=444444&area=true&area_color=dddddd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false" />  
   <img src="https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false" />
-</div>
-<br/>
-
+</p>
 <div align="center">
-
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=light&hide_border=true&layout=compact )  
-    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=light&hide_border=true&layout=compact )   
 </div>
