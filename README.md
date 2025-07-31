@@ -63,12 +63,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false" />
-  
   <img src="https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false" />
 </div>
 <br/>
 
