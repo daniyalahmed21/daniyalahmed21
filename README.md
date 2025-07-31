@@ -60,13 +60,13 @@
 <div align="center">
 
 <div id="user-content-toc" style="list-style: none;">
-  <h2 style="border-bottom: none;">📊 GitHub Stats</h2>
+  <h2 style="border-bottom: none;">📊 GitHub Stats</h2>
 </div>
 
-[![Daniyal Ahmed's GitHub Activity Graph (Black & Grey with Dark Grey Fill)](https://github-readme-activity-graph.vercel.app/graph?username=daniyalahmed21&bg_color=1A1A1A&color=E0E0E0&line=888888&point=555555&area=true&area_color=444444&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=light&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=daniyalahmed21&theme=light&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=daniyalahmed21&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=light&hide_border=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalahmed21&theme=dark&hide_border=false&layout=compact)
+[![Daniyal Ahmed's GitHub Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=daniyalahmed21&bg_color=ffffff&color=333333&line=666666&point=444444&area=true&area_color=dddddd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 </div>
