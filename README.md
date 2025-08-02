@@ -1,6 +1,6 @@
 ![Linkedin Banner](https://github.com/user-attachments/assets/a058a1be-33fe-41c5-8eb4-122b6bdb70a7)
 
-<h1 align="center"><code>~$ echo "Welcome to my github!"</code></h1>
+<h1 align="center"><code>~$ echo "Welcome to my github"</code></h1>
 
 <div align="center">
   <table>
