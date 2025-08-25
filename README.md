@@ -22,6 +22,7 @@
   </table>
 </div>
 
+
 <h2><code>~$ launch LinkedIn_Profile</code></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyal-ahmed21)
@@ -75,6 +76,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/k6-6946F6?style=for-the-badge&logo=k6&logoColor=white" alt="K6" />
 <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </td>
 </tr>
 </table>
