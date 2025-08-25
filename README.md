@@ -3,31 +3,24 @@
 <h1 align="center"><code>~$ echo "Welcome to my github!"</code></h1>
 
 <div align="center">
-
-  <!-- Left column -->
-  <div style="display: inline-block; vertical-align: top; text-align: left; max-width: 500px; width: 100%; padding: 10px;">
-    <h2><code>~$ whoami</code></h2>
-    <ul>
-      <li>🔭 Currently working on <strong>LeetCode backend architecture</strong></li>
-      <li>🌱 Exploring <strong>DevOps</strong>, CI/CD, and cloud deployment strategies</li>
-      <li>🤝 Open to <strong>collaborations</strong>, especially on React, Node, or DevOps-based projects</li>
-      <li>💬 Ask me anything about <strong>full-stack development</strong>, I’m happy to help!</li>
-      <li>🧩 Fun Fact: I’m obsessed with optimizing code as if I’m solving a puzzle</li>
-    </ul>
-  </div>
-
-  <!-- Right column -->
-  <div style="display: inline-block; vertical-align: top; max-width: 300px; width: 100%; padding: 10px;">
-    <img 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY210ZW5ta3NocHI2a3Jxc2FpYmRnZ2UxNnRmMHN3eDFsZDg0enlqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-      style="max-width: 100%; height: auto;" 
-      alt="whoami gif"
-    />
-  </div>
-
+  <table>
+    <tr>
+      <td width="55%" valign="top">
+        <h2><code>~$ whoami</code></h2>
+        <ul>
+          <li>🔭 Currently working on <strong>LeetCode backend architecture</strong></li>
+          <li>🌱 Exploring <strong>DevOps</strong>, CI/CD, and cloud deployment strategies</li>
+          <li>🤝 Open to <strong>collaborations</strong>, especially on React, Node, or DevOps-based projects</li>
+          <li>💬 Ask me anything about <strong>full-stack development</strong>, I’m happy to help!</li>
+          <li>🧩 Fun Fact: I’m obsessed with optimizing code as if I’m solving a puzzle</li>
+        </ul>
+      </td>
+      <td width="45%" align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY210ZW5ta3NocHI2a3Jxc2FpYmRnZ2UxNnRmMHN3eDFsZDg0enlqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 <h2><code>~$ launch LinkedIn_Profile</code></h2>
 
@@ -82,7 +75,6 @@
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/k6-6946F6?style=for-the-badge&logo=k6&logoColor=white" alt="K6" />
 <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </td>
 </tr>
 </table>
