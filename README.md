@@ -87,9 +87,7 @@
   <table>
     <tr>
       <td align="center">
-        <img 
-          src="https://github-readme-stats-eym6t8a2s-daniyal-ahmeds-projects-c363bc8e.vercel.app/api?username=daniyalahmed21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
-          alt="GitHub Stats" />
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-green-five.vercel.app?user=daniyalahmed21&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <td align="center">
        <picture>
