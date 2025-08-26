@@ -22,7 +22,6 @@
   </table>
 </div>
 
-
 <h2><code>~$ launch LinkedIn_Profile</code></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyal-ahmed21)
@@ -93,12 +92,13 @@
           alt="GitHub Stats" />
       </td>
       <td align="center">
-       <img src="https://github-readme-streak-stats-green-five.vercel.app?user=daniyalahmed21&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+       <picture>
+          <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&show_icons=true&theme=dark" />
+       </picture>
       </td>
     </tr>
   </table>
 </div>
-
 
 <h2><code>~$ echo "Personal Motto"</code></h2>
 
