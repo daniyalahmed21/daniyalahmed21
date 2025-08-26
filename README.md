@@ -87,12 +87,12 @@
   <table>
     <tr>
       <td align="center">
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-green-five.vercel.app?user=daniyalahmed21&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-green-five.vercel.app?user=daniyalahmed21&theme=dark&border=E0E0E0&sideLabels=FFFFFF&title=3C3C3C&dates=FFFFFF" alt="GitHub Streak" />
+</a>
       </td>
       <td align="center">
-       <picture>
-          <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&show_icons=true&theme=dark" />
-       </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed21&theme=dark&rank_icon=github" />
       </td>
     </tr>
   </table>
