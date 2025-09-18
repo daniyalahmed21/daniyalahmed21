@@ -91,7 +91,7 @@
 </a>
       </td>
       <td align="center">
- <img src="https://github-readme-streak-stats-uqu4eoti5.vercel.app?user=daniyalahmed21&theme=dark" alt="GitHub Streak" />
+ <img src="https://github-readme-stats-nu-rouge-90.vercel.app/api?username=daniyalahmed21&theme=dark&rank_icon=github" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
