@@ -23,7 +23,7 @@
 
 <h2><code>~$ launch LinkedIn_Profile</code></h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyal-ahmed21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalahmed-dev/)
 
 ## <code>~$ ls tech_stack</code>
 
