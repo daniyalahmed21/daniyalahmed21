@@ -7,7 +7,7 @@
       <td width="55%" valign="top">
         <h2><code>~$ whoami</code></h2>
         <ul>
-          <li>🔭 Currently working on <strong>LeetCode backend architecture</strong></li>
+          <li>🔭 Currently working on <strong>LeetCode backend</strong></li>
           <li>🌱 Exploring <strong>DevOps</strong>, CI/CD, and cloud deployment strategy</li>
           <li>🤝 Open to <strong>collaborations</strong>, especially on React, Node, or DevOps-based projects</li>
           <li>💬 Ask me anything about <strong>full-stack development</strong>, I’m happy to help!</li>
