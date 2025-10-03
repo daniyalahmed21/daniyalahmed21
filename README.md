@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td colspan="4" align="center" style="padding: 10px;">
-<h4><code>~/backend_and_devops</code></h4>
+<h4><code>~/backend_and_devop</code></h4>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Fastify" />
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Express" />
