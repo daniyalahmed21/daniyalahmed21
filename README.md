@@ -11,7 +11,7 @@
           <li>🌱 Exploring <strong>DevOps</strong>, CI/CD, and cloud deployment strategy</li>
           <li>🤝 Open to <strong>collaborations</strong>, especially on React, Node, or DevOps-based projects</li>
           <li>💬 Ask me anything about <strong>full-stack development</strong>, I’m happy to help!</li>
-          <li>🧩 Fun Fact: I’m obsessed with optimizing code as if I’m solving a puzzle</li>
+          <li>🧩 Fun Fact I’m obsessed with optimizing code as if I’m solving a puzzle</li>
         </ul>
       </td>
       <td width="45%" align="center">
