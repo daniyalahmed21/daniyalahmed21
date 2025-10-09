@@ -7,8 +7,8 @@
       <td width="55%" valign="top">
         <h2><code>~$ whoami</code></h2>
         <ul>
-          <li>🔭 Currently working on <strong>LeetCode</strong></li>
-          <li>🌱 Exploring <strong>DevOps</strong>, CI/CD, and cloud deployment strategy</li>
+          <li>🔭 Currently working on a <strong>Generative AI project</strong></li>
+          <li>🌱 Currently learning <strong>DevOps</strong> and <strong>Generative AI (GenAI)</strong></li>
           <li>🤝 Open to <strong>collaborations</strong>, especially on React, Node, or DevOps-based projects</li>
           <li>💬 Ask me anything about <strong>full-stack development</strong>, I’m happy to help!</li>
           <li>🧩 Fun Fact I’m obsessed with optimizing code as if I’m solving a puzzle</li>
@@ -21,9 +21,15 @@
   </table>
 </div>
 
-<h2><code>~$ launch LinkedIn_Profile</code></h2>
+<h2><code>~$ launch social_links</code></h2>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalahmed-dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/daniyalahmed21/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniyalahmed21)
+
+</div>
 
 ## <code>~$ ls tech_stack</code>
 
@@ -55,8 +61,8 @@
 <td colspan="4" align="center" style="padding: 10px;">
 <h4><code>~/backend_and_devop</code></h4>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Fastify" />
-<img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
