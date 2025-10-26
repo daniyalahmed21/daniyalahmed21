@@ -116,7 +116,8 @@
   <img src="https://github-readme-streak-stat-taupe.vercel.app?user=daniyalahmed21&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </td>
       <td align="center">
- <img src="https://github-readme-stats-nu-rouge-90.vercel.app/api?username=daniyalahmed21&theme=dark&rank_icon=github" alt="GitHub Stats" />
+        
+ <img src="https://github-readme-stat-lemon.vercel.app/api?username=daniyalahmed21&theme=dark&rank_icon=github" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
