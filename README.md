@@ -113,7 +113,7 @@
   <table>
     <tr>
       <td align="center">
-  <img src="https://streak-stats.demolab.com?user=daniyalahmed21&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stat-taupe.vercel.app?user=daniyalahmed21&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </td>
       <td align="center">
  <img src="https://github-readme-stats-nu-rouge-90.vercel.app/api?username=daniyalahmed21&theme=dark&rank_icon=github" alt="GitHub Stats" />
