@@ -32,7 +32,7 @@
 
 ## <code>~$ ls tech_stack</code>
 
-> From frontend polish to backend logic — and DevOps power, here's what I build with:
+> From frontend polish to backend logic  and DevOps, here's what I build with:
 
 <div align="center">
 <table style="width: 90%; border-collapse: separate; border-spacing: 10px;">
